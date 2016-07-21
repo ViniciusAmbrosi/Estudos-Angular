@@ -38,3 +38,5 @@ jspm_packages
 
 # ==
 MEAN/Projeto 1/node_modules/*
+
+MEAN/Projeto 1/public/libs*
