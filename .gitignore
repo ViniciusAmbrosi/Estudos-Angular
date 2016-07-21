@@ -37,6 +37,5 @@ jspm_packages
 .node_repl_history
 
 # ==
-MEAN/Projeto 1/node_modules/*
-
-MEAN/Projeto 1/public/libs*
+**/node_modules/*
+**/libs/*
