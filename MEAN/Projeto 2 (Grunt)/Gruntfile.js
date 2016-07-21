@@ -1,7 +1,6 @@
 module.exports = function (grunt) {
 
     grunt.initConfig({
-
         // check all js files for errors
         jshint: {
             all: ['public/src/js/**/*.js']
